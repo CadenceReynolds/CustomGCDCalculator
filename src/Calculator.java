@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public interface Calculator {
+    int calculate (int a, int b);
 }
